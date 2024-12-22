@@ -21,10 +21,13 @@ _This is a python based project for testing a trading strategy using volatility 
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: .......
+## Step 1: Volatility clustering with GARCH and signals' generation.
 
-_Welcome _
+_Welcome_ 
 
+## Step 2: Trading strategy development using volatility forecasts.
+
+_Welcome 2_
 
 <footer>
 
