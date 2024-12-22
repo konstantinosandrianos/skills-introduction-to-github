@@ -9,7 +9,7 @@
 
 # Test Project
 
-_This is a python based project for testing a trading strategy using volatility clustering and trading signals creation._
+_This is a python based project for testing a trading strategy using volatility clustering._
 
 </header>
 
@@ -21,11 +21,9 @@ _This is a python based project for testing a trading strategy using volatility 
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## Step 1: .......
 
-_Welcome to "Introduction to GitHub"! :wave:_
-
-**What is GitHub?**: 
+_Welcome _
 
 
 <footer>
@@ -37,8 +35,6 @@ _Welcome to "Introduction to GitHub"! :wave:_
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 
 
 </footer>
