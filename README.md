@@ -1,4 +1,4 @@
-# Financial Data Analysis and Strategy Testing
+# Financial Time Series Analysis and Strategy Testing
 
 This repository outlines a comprehensive approach to analyzing SPY (S&P 500 ETF) price data and implementing a volatility-based trading strategy.
 
