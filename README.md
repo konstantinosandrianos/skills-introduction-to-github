@@ -1,43 +1,16 @@
-<header>
+# Financial Data Analysis and Strategy Testing
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+This repository outlines a comprehensive approach to analyzing SPY (S&P 500 ETF) price data and implementing a volatility-based trading strategy.
 
-# Test Project
+## Overview
 
-_This is a python based project for testing a trading strategy using volatility clustering._
+The analysis begins with data preparation, including downloading price data, calculating log returns, and conducting statistical tests for normality and stationarity. A **GARCH** model is used to assess and forecast volatility, while regime classifications inform position sizing for the trading strategy. Key performance metrics such as total return, annual volatility, Sharpe ratio, and maximum drawdown are calculated to evaluate the strategy against a buy-and-hold approach. Visualizations illustrating equity growth and volatility trends throughout the process.
 
-</header>
+## Contents
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Volatility clustering with GARCH and signals' generation.
-
-_Welcome_ 
-
-## Step 2: Trading strategy development using volatility forecasts.
-
-_Welcome 2_
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-&copy; 2024 
-
-</footer>
+- **Data Preparation**: Downloading SPY price data and calculating log returns.
+- **Statistical Analysis**: Normality and stationarity tests.
+- **Volatility Modeling**: GARCH model for volatility assessment.
+- **Regime Classification**: Identifying market conditions for strategy implementation.
+- **Performance Metrics**: Evaluating strategy performance against buy and hold benchmark.
+- **Visualizations**: Graphical representations of results.
