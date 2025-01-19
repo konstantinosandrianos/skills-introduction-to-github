@@ -14,11 +14,14 @@ In the 2nd part, a **regime classification** inform position sizing based on 4 v
 - **Statistical Analysis**: Normality, stationarity and fat tails tests.
 - **Volatility Modeling**: GARCH model for volatility assessment.
 - **Volatility Optimization**: Based upon different mean models, volatility models and distributions.
+
+![output_1](https://github.com/user-attachments/assets/bdb0f1f6-b048-476f-96f1-309662f5728a)
+
 #
 - **Regime Classification**: Identifying market conditions and grouping volatility for strategy implementation.
 - **Position sizing**: Based on the forecast's of the identified regime.
 - **Visualizations**: Graphical representations of both strategy's and benchmark's equity curves.
 - **Performance Metrics**: Evaluating strategy performance against buy and hold benchmark.
 
+![output_2](https://github.com/user-attachments/assets/8b6e3b92-44d1-457b-a0ae-901dde5222d4)
 
-![Alt text]([image_link](https://github.com/konstantinosandrianos/skills-introduction-to-github/blob/main/images/output_2.png))
