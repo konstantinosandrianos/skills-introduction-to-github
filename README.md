@@ -1,4 +1,4 @@
-# GARCH model & volatility-based Strategy
+# GARCH modeling & volatility-based Strategy
 
 This repository outlines a comprehensive approach to analyzing the time series of SPY (S&P 500 ETF) returns over a 6-year period (2019-2024) and implementing a volatility-based trading strategy based upon regime classification.
 
