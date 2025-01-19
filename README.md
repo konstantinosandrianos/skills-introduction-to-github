@@ -21,4 +21,4 @@ In the 2nd part, a **regime classification** inform position sizing based on 4 v
 - **Performance Metrics**: Evaluating strategy performance against buy and hold benchmark.
 
 
-
+![Alt text]([image_link](https://github.com/konstantinosandrianos/skills-introduction-to-github/blob/main/images/output_2.png))
